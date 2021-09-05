@@ -70,6 +70,6 @@ let what;
 what = '문자열'
 
 let len1 = (<string>what).length;
-let len2 = (what as string)length;
+let len2 = (what as string).length;
 
 
