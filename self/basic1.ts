@@ -1,4 +1,4 @@
-// day 1
+
 
 // Syntax 
 console.log("출력할 내용")
